@@ -1,0 +1,32 @@
+{
+    "finance": {
+      "result": [
+        {
+          "symbol": "SONO",
+          "recommendedSymbols": [
+            {
+              "symbol": "SFIX",
+              "score": 0.046048
+            },
+            {
+              "symbol": "DBX",
+              "score": 0.045687
+            },
+            {
+              "symbol": "PTON",
+              "score": 0.04474
+            },
+            {
+              "symbol": "UPWK",
+              "score": 0.044363
+            },
+            {
+              "symbol": "CHWY",
+              "score": 0.044144
+            }
+          ]
+        }
+      ],
+      "error": null
+    }
+  }

@@ -1,0 +1,74 @@
+{
+    "finance": {
+      "result": [
+        {
+          "count": 20,
+          "quotes": [
+            {
+              "symbol": "LUNA1-USD"
+            },
+            {
+              "symbol": "BTC-USD"
+            },
+            {
+              "symbol": "LUNA-USD"
+            },
+            {
+              "symbol": "^IXIC"
+            },
+            {
+              "symbol": "^GSPC"
+            },
+            {
+              "symbol": "^DJI"
+            },
+            {
+              "symbol": "ETH-USD"
+            },
+            {
+              "symbol": "LUNA1-CAD"
+            },
+            {
+              "symbol": "UST-USD"
+            },
+            {
+              "symbol": "WLUNA-USD"
+            },
+            {
+              "symbol": "LUNA1-EUR"
+            },
+            {
+              "symbol": "LUNA"
+            },
+            {
+              "symbol": "XRP-USD"
+            },
+            {
+              "symbol": "SHIB-USD"
+            },
+            {
+              "symbol": "^RUT"
+            },
+            {
+              "symbol": "LSPD.TO"
+            },
+            {
+              "symbol": "BTC-EUR"
+            },
+            {
+              "symbol": "BTC-CAD"
+            },
+            {
+              "symbol": "SONO"
+            },
+            {
+              "symbol": "SOL-USD"
+            }
+          ],
+          "jobTimestamp": 1652530692773,
+          "startInterval": 202205141100
+        }
+      ],
+      "error": null
+    }
+  }

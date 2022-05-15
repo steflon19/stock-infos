@@ -1,0 +1,44 @@
+{
+    "finance": {
+      "result": {
+        "symbol": "SONO",
+        "instrumentInfo": {
+          "technicalEvents": {
+            "provider": "Trading Central",
+            "shortTerm": "up",
+            "midTerm": "down",
+            "longTerm": "down"
+          },
+          "keyTechnicals": {
+            "provider": "Trading Central",
+            "support": 14.66,
+            "resistance": 27.18,
+            "stopLoss": 14.2586
+          },
+          "valuation": {
+            "color": 0.5,
+            "description": "Near Fair Value",
+            "discount": "14%",
+            "provider": "Trading Central"
+          }
+        },
+        "reports": [],
+        "companySnapshot": {
+          "sectorInfo": "Technology",
+          "company": {
+            "insiderSentiments": 0.4401,
+            "earningsReports": 0.8199
+          },
+          "sector": {
+            "innovativeness": 0.5,
+            "hiring": 0.5,
+            "sustainability": 0.5,
+            "insiderSentiments": 0.5,
+            "earningsReports": 0.5,
+            "dividends": 0.5
+          }
+        }
+      },
+      "error": null
+    }
+  }
