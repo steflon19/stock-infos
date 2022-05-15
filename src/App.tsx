@@ -18,7 +18,7 @@ import { ReactComponent as RocketSvg } from "./icons/rocket.svg";
 const App = () => {
   const [trendingData, setTrendingData] = useState<Trending>();
   const [quoteData, setQuoteData] = useState<Quote>();
-  const [mode, setMode] = useState(FetchMode.Debug);
+  const [mode, setMode] = useState(FetchMode.Api);
   const [region, setRegion] = useState("US" as Regions);
 
   // Init. Fetch default trending data on load and update if mode or region changes

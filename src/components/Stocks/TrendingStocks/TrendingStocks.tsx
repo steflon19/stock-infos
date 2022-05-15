@@ -38,7 +38,7 @@ const TrendingStocks = (props: TrendingStocksProps) => {
     div = (
       <>
         <h3>Check out one of the currently trending stocks</h3>
-        <div>
+        <div className="mx-auto col col-sm-11">
           {quotes.map((data: Symbol, i: number) => {
             return (
               <button
